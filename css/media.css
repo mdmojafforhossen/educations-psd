@@ -1,0 +1,614 @@
+
+
+
+
+ /*==============Extra small devices (portrait phones, less than 576px)=================*/
+@media (max-width: 575.98px) {
+
+/*header strat*/
+.logo {
+    width: 115px;
+}
+.menu ul li a{
+	padding: 2px 14px !important;
+}
+.menu ul li a:hover{
+	background-color:transparent;
+	color: #f05c5c !important;
+}
+	.user_ul {
+    top: 81px;
+    left: -25px;
+}
+.dp_search_ul {
+    width: 243px;
+    top: 43px;
+    left: -25px;
+}
+	/*header end*/
+/*banner strat*/
+.b_content h1 {
+    margin-top: 90px;
+    margin-bottom: 80px;
+    font-size: 30px;
+}
+.scroll p {
+    font-size: 16px;
+}
+.scroll i {
+    font-size: 26px;
+}
+/*kid1 section*/
+.kid1 {
+     padding-top: 40px;
+    padding-bottom: 50px;
+}
+.common_title h1 {
+     font-size: 20px;
+   
+}
+.kid1_content h2 {
+    font-size: 18px;
+}
+.kid1_content p {
+    line-height: 20px;
+}
+.kid1_content a img {
+    margin-top: 0px;
+    width: 120px;
+    height: 40px;
+}
+.kid1_img {
+    margin-bottom: 30px;
+}
+/*kid_2 strat*/
+.kid_2 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.single_box h3 {
+    margin-top: 18px;
+    font-size: 18px !important;
+}
+.single_box {
+    margin-bottom: 20px;
+}
+/*course strat*/
+.course {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+/*memorable gallary*/
+.memorable {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.ShowMore img {
+    width: 125px;
+}
+/*twitter strat*/
+.twitter {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+/*teacher strat*/
+.teacher {
+    padding-bottom: 40px;
+}
+.mb_1{
+    margin-bottom: 0px !important;
+}
+.t_content h2 {
+    font-size: 20px;
+}
+.t_content {
+    text-align: center;
+}
+.t_img {
+    text-align: center;
+}
+.t_content p {
+    line-height: 18px;
+    margin-bottom: 5px;
+}
+.t_content hr {
+    margin: 10px 0px;
+}
+.t_content ul {
+  margin-bottom: 0;
+}
+/*counter strat*/
+.counter {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.single_count h3 {
+    margin-top: 0px;
+}
+.common_border {
+    margin-top: -20px;
+}
+/*event news strat*/
+.event_news {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.e_right h3 {
+    font-size: 20px;
+}
+.e_left {
+    width: 60px;
+    height: 60px;
+}
+.news_content {
+    text-align: center;
+    margin-bottom: 30px;
+}
+/*event news strat*/
+.mt_30{
+    margin-top: 30px !important;
+}
+.e_left h2 {
+    font-size: 25px;
+}
+.e_left h4 {
+    font-size: 16px;
+}
+.e_right h3 {
+    font-size: 20px;
+}
+
+.news_content {
+    text-align: center;
+    margin-bottom: 30px;
+}
+/*footer top*/
+.footer_top {
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+.footer_box2 h2 {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-right: 120px;
+}
+.footer_box3 h2 {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-right: 120px;
+}
+.footer_box4 h2 {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-right: 60px;
+}
+/*footer*/
+.f_content {
+    text-align: center;
+}
+.footer ul li a {
+    padding: 0px 6px;
+    font-size: 16px;
+    text-align: center;
+}
+.f_content_2 {
+    text-align: center;
+    margin-top: 0px;
+}
+}
+
+
+
+
+
+
+
+ /*==============Small devices (landscape phones, 576px and up)==================*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header strat*/
+.logo {
+    width: 140px;
+}
+.menu ul li a{
+	padding: 2px 14px !important;
+}
+.menu ul li a:hover{
+	background-color:transparent;
+	color: #f05c5c !important;
+}
+	.user_ul {
+    top: 81px;
+    left: -49px;
+}
+.dp_search_ul {
+    width: 243px;
+    top: 43px;
+    left: -49px;
+}
+	/*header end*/
+
+/*banner strat*/
+.b_content h1 {
+    margin-top: 130px;
+    margin-bottom: 140px;
+    font-size: 40px;
+}
+.scroll p {
+    font-size: 16px;
+}
+.scroll i {
+    font-size: 26px;
+}
+/*kid1 section*/
+.kid1 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.common_title h1 {
+    font-size: 24px;
+   
+}
+.kid1_content p {
+    line-height: 20px;
+}
+.kid1_content a img {
+    margin-top: 0px;
+    width: 120px;
+    height: 40px;
+}
+.kid1_img {
+    margin-bottom: 30px;
+}
+/*kid_2 strat*/
+.kid_2 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.single_box h3 {
+    margin-top: 18px;
+    font-size: 18px !important;
+}
+.single_box {
+    padding-bottom: 20px;
+}
+/*course strat*/
+.course {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+/*memorable gallary*/
+.memorable {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.ShowMore img {
+    width: 135px;
+}
+/*twitter strat*/
+.twitter {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+/*teacher strat*/
+.teacher {
+    padding-bottom: 60px;
+}
+.mb_1{
+    margin-bottom: 0px !important;
+}
+.t_content h2 {
+    font-size: 20px;
+}
+.t_content p {
+    line-height: 18px;
+    margin-bottom: 5px;
+}
+.t_content hr {
+    margin: 10px 0px;
+}
+.t_content ul {
+  margin-bottom: 0;
+}
+/*counter strat*/
+.counter {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.single_count h3 {
+    margin-top: 0px;
+}
+.common_border {
+    margin-top: -15px;
+}
+/*event news strat*/
+.event_news {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.mt_30{
+    margin-top: 30px !important;
+}
+.e_left {
+    width: 75px;
+    height: 75px;
+}
+.e_left h2 {
+    font-size: 25px;
+}
+.e_left h4 {
+    font-size: 16px;
+}
+.e_right h3 {
+    font-size: 20px;
+}
+
+.news_content {
+    text-align: center;
+    margin-bottom: 30px;
+}
+/*counter strat*/
+.counter {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.single_count h3 {
+    margin-top: 0px;
+}
+.common_border {
+    margin-top: -15px;
+}
+/*event newa*/
+.event_news {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+/*footer top*/
+.footer_top {
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+.footer_box2 h2 {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-right: 120px;
+}
+.footer_box3 h2 {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-right: 120px;
+}
+.footer_box4 h2 {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-right: 60px;
+}
+/*footer*/
+
+element.style {
+}
+.footer ul li a {
+    font-size: 14px;
+}
+.f_content_2 p{
+    font-size: 14px;
+}
+}
+
+
+
+
+
+
+
+/*=============Medium devices (tablets, 768px and up)=================*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header strat*/
+.logo {
+    width: 140px;
+}
+.menu ul li a{
+	padding: 2px 14px !important;
+}
+.menu ul li a:hover{
+	background-color:transparent;
+	color: #f05c5c !important;
+}
+	.user_ul {
+    top: 81px;
+    left: -49px;
+}
+.dp_search_ul {
+    width: 243px;
+    top: 43px;
+    left: -49px;
+}
+	/*header end*/
+/*banner strat*/
+.b_content h1 {
+    margin-top: 130px;
+    margin-bottom: 140px;
+    font-size: 40px;
+}
+/*kid1 section*/
+.kid1 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.common_title h1 {
+    font-size: 24px;
+   
+}
+.kid1_content p {
+    line-height: 20px;
+}
+.kid1_content a img {
+    margin-top: 0px;
+    width: 120px;
+    height: 40px;
+}
+/*kid_2 strat*/
+.kid_2 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.single_box h3 {
+    margin-top: 18px;
+    font-size: 20px !important;
+}
+/*course strat*/
+.course {
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+/*memorable gallary*/
+.memorable {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.ShowMore img {
+    width: 135px;
+}
+/*twitter strat*/
+.twitter {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+/*teacher strat*/
+.teacher {
+    padding-bottom: 60px;
+}
+.mb_1{
+    margin-bottom: 0px !important;
+}
+.t_content h2 {
+    font-size: 20px;
+}
+.t_content p {
+    line-height: 18px;
+    margin-bottom: 5px;
+}
+.t_content hr {
+    margin: 10px 0px;
+}
+.t_content ul {
+  margin-bottom: 0;
+}
+/*counter strat*/
+.counter {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.single_count h3 {
+    margin-top: 0px;
+}
+.common_border {
+    margin-top: -15px;
+}
+/*event newa*/
+.event_news {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+/*footer top*/
+.footer_top {
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+.footer_box2 h2 {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-right: 217px;
+}
+.footer_box3 h2 {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-right: 217px;
+}
+.footer_box4 h2 {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-right: 150px;
+}
+
+}
+
+
+
+
+
+
+
+
+/*===============Large devices (laptop, 992px and up) and (max-width: 1199.98px) ===============*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*header strat*/
+	.user_ul {
+    top: 58px;
+    left: -50px;
+}
+	.dp_search_ul {
+    width: 243px;
+    top: 58px;
+    left: -128px;
+}
+	/*header end*/
+/*banner strat*/
+.b_content h1 {
+    margin-top: 210px;
+    margin-bottom: 200px;
+}
+/*teacher strat*/
+.t_content h2 {
+    font-size: 20px;
+}
+.t_content p {
+    line-height: 22px;
+}
+.t_content ul {
+    margin-bottom: 10px;
+}
+/*event news strat*/
+.e_right {
+    text-align: center;
+}
+
+}
+
+
+
+
+
+
+/*=============Extra large devices (large desktops, 1200px and (max-width: 1399.98px))==============*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+.dp_search_ul {
+    padding: 6px 3px;
+    width: 271px;
+    background-color: #ffd338 !important;
+    top: 60px;
+    left: -128px;
+}
+/*banner strat*/
+
+
+
+
+
+
+ }
+/*=============Extra large devices (large desktops, 1400px and up)==============*/
+
+
+ @media (min-width: 1400px) {}
